@@ -4,9 +4,7 @@ Vagrant/Chef files for a LAMP server
 
 How
 ===
-1. Install [vagrant](http://vagrantup.com/)
-
-        gem install vagrant
+1. Download and Install [vagrant](http://vagrantup.com/)
 2. Download and Install [VirtualBox](http://www.virtualbox.org/)
 3. Clone this repo
 4. Go to the repo and launch the box
